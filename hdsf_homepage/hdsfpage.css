@@ -1,0 +1,11 @@
+/* 画面幅の50%の幅で画像を表示 */
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.img-hdsf-header {
+    margin: 0px;
+    padding: 0px;
+    width : 100vw ; 
+  }
